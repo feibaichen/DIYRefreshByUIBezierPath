@@ -1,3 +1,2 @@
 # DIYRefreshByUIBezierPath
- ![image]https://github.com/feibaichen/)
- https://github.com/feibaichen/DIYCamera_demo/raw/master/tIMG2.jpeg
+ ![image]https://github.com/feibaichen/DIYRefreshByUIBezierPath/blob/master/iPhone8.png)
